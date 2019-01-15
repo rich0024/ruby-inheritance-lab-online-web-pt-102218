@@ -4,5 +4,5 @@ class Teacher < user
 
   def teach
   end
-  
+
 end
